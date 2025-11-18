@@ -1,0 +1,17 @@
+# Android/IntelliJ
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+
+# Build outputs
+/build
+/captures
+
+# Others
+.externalNativeBuild
+.cxx
